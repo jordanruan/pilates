@@ -1,0 +1,36 @@
+.form__group{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+
+.form__group label{
+    margin-top: 5px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #555;
+}
+
+.form__group input{
+    border: 1px solid #AAA;
+    border-radius: 8px;
+    background-color: #fff;
+    height: 36px;
+    padding: 0 10px;
+}
+
+.mensagem{
+    color: red;
+    font-size: 12px;
+}
+
+.form-button{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.mensagem{
+    color: red;
+    font-size: 12px;
+}
