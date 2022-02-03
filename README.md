@@ -46,7 +46,7 @@ Desenvolver um sistema para um cliente que necessita utilizar serviços de pilat
 
 <ol>
 <li>git clone</li>
-<li>npm init -y</li>
+<li>npm init</li>
 <li>node index</li>
 </ol>
 
