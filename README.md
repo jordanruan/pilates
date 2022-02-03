@@ -3,8 +3,6 @@
 
 <p align="center">Finalizado 🚀</p>
 
-![banner](https://github.com/jordanruan/medCRUD/blob/main/public/img/2.png?raw=true) 
-
 ---
 
 ## Instituto Atlântico Challenge 💡
